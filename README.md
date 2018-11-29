@@ -1,6 +1,6 @@
 
 
-## Available Scripts
+## REACTOutputUserInputApp
 
 In the project directory, you can run:
 
